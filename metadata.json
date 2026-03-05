@@ -1,0 +1,9 @@
+{
+  "name": "ALLINONE AI",
+  "description": "Global Ultra Pro Core - A comprehensive AI suite for media, documents, coding, and gaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
